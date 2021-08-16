@@ -1,0 +1,4 @@
+/* Cancel the filters in order to allow IE9 to render the gradient as SVG */
+.currency-theme #heading {
+   filter: none;
+}
